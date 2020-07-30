@@ -4,7 +4,7 @@ Some information about me :point_down:
 
 • Currently studying Computer Engineering at Federal University of Rio Grande (FURG). Class of '21.
 
-• I translated the book **'RISC-V: an open architecture atlas'** to Portuguese. The project is available here: riscvbook.com/portuguese
+• I translated the book **'RISC-V: an open architecture atlas'** to Portuguese. The project is available here: http://riscvbook.com/portuguese
 
 • I'm an undergraduate researcher (machine learning and data science, currently researching about the impact of diversity on classifier ensembles)
 
