@@ -8,7 +8,7 @@ Some information about me:
 
 • I'm an undergraduate researcher (machine learning and data science, currently researching about the impact of diversity on classifier ensembles)
 
-• I'm also working in **diversity-lib** (https://github.com/nathanformentin/diversity-lib), which is a library built to be used along sciki t-learn to measure diversity in ensembles
+• I'm also working in **diversity-lib** (https://github.com/nathanformentin/diversity-lib), which is a library built to be used along scikit-learn to measure diversity in ensembles.
 
 
 Feel free to contact me: nathanformentin@gmail.com :e-mail:
