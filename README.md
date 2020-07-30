@@ -1,6 +1,6 @@
 Hello! :wave:
 
-Some information about me :point_down:
+Some information about me:
 
 • Currently studying Computer Engineering at Federal University of Rio Grande (FURG). Class of '21.
 
@@ -12,6 +12,8 @@ Some information about me :point_down:
 
 
 Feel free to contact me: nathanformentin@gmail.com :e-mail:
+
+Cheers!
 
 
 
