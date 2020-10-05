@@ -2,13 +2,13 @@ Hello! :wave:
 
 Some information about me:
 
-• Currently studying Computer Engineering at Federal University of Rio Grande (FURG). Class of '21.
+Computer Engineering at Federal University of Rio Grande (FURG). Class of '21.
 
-• I translated the book **'RISC-V: An Open Architecture Atlas'** to Portuguese. The project is available here: [http://www.riscvbook.com/portuguese/](riscvbook.com/portuguese)
+Data Analyst Intern @Anota AI
 
-• I'm an undergraduate researcher (machine learning and data science, currently researching about the impact of diversity on classifier ensembles)
+[**'RISC-V: An Open Architecture Atlas (PT-BR)'**](riscvbook.com/portuguese)
 
-• I'm also working in **diversity-lib** (https://github.com/nathanformentin/diversity-lib), which is a library built to be used along scikit-learn to measure diversity in ensembles.
+**diversity-lib**: (https://github.com/nathanformentin/diversity-lib)
 
 
 Feel free to contact me: nathanformentin@gmail.com :e-mail:
