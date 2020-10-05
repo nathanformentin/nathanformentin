@@ -1,7 +1,3 @@
-Hello! :wave:
-
-Some information about me:
-
 Computer Engineering at Federal University of Rio Grande (FURG). Class of '21.
 
 Data Analyst Intern @Anota AI
@@ -11,10 +7,7 @@ Data Analyst Intern @Anota AI
 **diversity-lib**: (https://github.com/nathanformentin/diversity-lib)
 
 
-Feel free to contact me: nathanformentin@gmail.com :e-mail:
-
-Cheers!
-
+Feel free to contact me: nathanformentin@gmail.com
 
 
 
