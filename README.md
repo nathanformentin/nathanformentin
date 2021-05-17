@@ -1,6 +1,6 @@
 Computer Engineering at Federal University of Rio Grande (FURG). Class of '21.
 
-Data Analyst @Anota AI
+Software Developer @ Mercado Livre
 
 [**RISC-V: An Open Architecture Atlas (PT-BR)**](riscvbook.com/portuguese)
 
