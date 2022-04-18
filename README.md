@@ -1,4 +1,4 @@
-Computer Engineering at Federal University of Rio Grande (FURG). Class of '21.
+Computer Engineer
 
 Software Developer @ Mercado Livre
 
