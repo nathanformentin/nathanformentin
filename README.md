@@ -1,10 +1,10 @@
 Computer Engineer
 
-Software Developer @ Bird
+Software Engineer @ Bird
 
 [**RISC-V: An Open Architecture Atlas (PT-BR)**](http://riscvbook.com/portuguese/)
 
-Feel free to contact me: nathanformentin@gmail.com
+Contact: nathanformentin@gmail.com
 
 
 
